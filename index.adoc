@@ -1,0 +1,27 @@
+////
+NO CAMBIAR!!
+Codificación, idioma, tabla de contenidos, tipo de documento
+////
+:encoding: utf-8
+:lang: es
+:doctype: book
+
+////
+Nombre y título del trabajo
+////
+# Curso Uso de OpenStack STIC - Noviembre 2018
+Cloud-DI Team - Departamento de Informática. UAL
+
+image::tutorial/images/di.png[]
+
+// NO CAMBIAR!! (Entrar en modo no numerado de apartados)
+:numbered!: 
+
+OpenStack es un proyecto de cloud computing que permite disponer de una plataforma on-premise que proporicione Infraestrucutra como servicio (IaaS)
+
+A continuación esta disponible el material del Curso de Introducción al uso básico de OpenStack-DI para el STIC de la UAL.
+
+* link:20181130Cloud-DTallerOpenStackSTIC.pdf[Presentación]
+* link:motivacion/index.html[Motivación]
+* https://ualmtorres.github.io/OpenStackDI/[Tutorial]
+
