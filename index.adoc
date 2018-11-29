@@ -12,7 +12,7 @@ Nombre y título del trabajo
 # Curso Uso de OpenStack STIC - Noviembre 2018
 Cloud-DI Team - Departamento de Informática. UAL
 
-image::tutorial/images/di.png[]
+image::images/di.png[]
 
 // NO CAMBIAR!! (Entrar en modo no numerado de apartados)
 :numbered!: 
